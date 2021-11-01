@@ -9,5 +9,7 @@ class class1{
     function hello(){echo 'hello';}
 }
 
+
 $b=new class1();
+//==
 $b->hello();

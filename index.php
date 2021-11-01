@@ -1,4 +1,4 @@
-<?php
+<?rphp
 
 class class1{
     function __construct()
